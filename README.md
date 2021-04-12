@@ -13,5 +13,5 @@ I love to code.
 
 ### Languages and Tools
 
-![react](https://icongr.am/devicon/react-original.svg?size=45&color=currentColor)
+![react](https://icongr.am/devicon/react-original.svg?size=40&color=currentColor)
 
