@@ -2,8 +2,7 @@
 
 I'm a Junior Developer trying to gain more experience and Knowledge in Frontend and Web Development. Also trying to specialize in [React](https://reactjs.org/).
 
-I love to code.
-
+I :heart: code
 
 
 - 🔭 I’m currently working on [CoderHouse](https://www.coderhouse.com)
