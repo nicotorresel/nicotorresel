@@ -11,3 +11,7 @@ I love to code.
 - 👯 I’m looking to collaborate in project with [ReactJS](https://reactjs.org/)
 - 📫 How to reach me: nicotorresel@gmail.com
 
+## Languages and Tools
+
+![https://icongr.am/devicon/react-original.svg?size=45&color=currentColor]
+
