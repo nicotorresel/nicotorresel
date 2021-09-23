@@ -6,8 +6,8 @@ I :heart: code
 
 
 - 🔭 I’m currently working on [CoderHouse](https://www.coderhouse.com)
-- 🌱 I’m currently learning and improving on [ReactJS](https://reactjs.org/)
-- 👯 I’m looking to collaborate in project with [ReactJS](https://reactjs.org/)
+- 🌱 I’m currently learning and improving on [ReactJS](https://reactjs.org/) and [VueJS](https://v3.vuejs.org/)
+- 👯 I’m also looking to collaborate in projects with [ReactJS](https://reactjs.org/) and [VueJS](https://v3.vuejs.org/)
 - 📫 How to reach me: nicotorresel@gmail.com
 
 ### Languages and Tools
