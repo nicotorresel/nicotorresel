@@ -12,5 +12,5 @@ I :heart: code
 
 ### Languages and Tools
 
-![react](https://icongr.am/devicon/react-original.svg?size=40&color=currentColor) ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor) ![HTML5](https://icongr.am/devicon/html5-original.svg?size=40&color=currentColor) ![CCS3](https://icongr.am/devicon/css3-original.svg?size=40&color=currentColor) ![SasS](https://icongr.am/devicon/sass-original.svg?size=40&color=currentColor) ![JAVA](https://icongr.am/devicon/java-original.svg?size=40&color=currentColor)
+![react](https://icongr.am/devicon/react-original.svg?size=40&color=currentColor) ![Vue](https://icongr.am/devicon/vuejs-original.svg?size=40&color=currentColor) ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor) ![HTML5](https://icongr.am/devicon/html5-original.svg?size=40&color=currentColor) ![CCS3](https://icongr.am/devicon/css3-original.svg?size=40&color=currentColor) ![SasS](https://icongr.am/devicon/sass-original.svg?size=40&color=currentColor) ![JAVA](https://icongr.am/devicon/java-original.svg?size=40&color=currentColor)
 
